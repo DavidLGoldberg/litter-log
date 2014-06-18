@@ -10,4 +10,5 @@ code!
 <kbd>alt</kbd> + <kbd>command</kbd> + <kbd>L</kbd>
 
 ##Notes
-* Works in the context of a selection
+* Can litter a log on every line
+* Can limit to within a selection
